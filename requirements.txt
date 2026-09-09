@@ -1,0 +1,10 @@
+streamlit
+google-genai
+python-dotenv
+sqlalchemy
+sqlglot
+pandas
+plotly
+fastapi
+uvicorn
+pytest
